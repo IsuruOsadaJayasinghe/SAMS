@@ -102,8 +102,13 @@ Use the administrator and lecturer accounts configured in the sample database.
 
 
 
-Replace this section with the actual default usernames and passwords after verifying the accounts in your database.
+Admin 
+username - admin
+password - Admin123!
 
+Lecturer
+username - lecturer1
+password - Lecturer123!
 
 
 8\. Screenshots
